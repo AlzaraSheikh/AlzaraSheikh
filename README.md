@@ -17,10 +17,7 @@ Here are some ideas to get you started:
 
 I'm an Aspiring Data Scientist with a passion for solving real-world problems using data and code.
 
-## 🧠 What I'm Working On
-- Learning more about NLP and data visualization
-
-## 💡 Skills
+### 💡 Skills
 - **Languages:** Python, SQL, Java
 - **Libraries:** scikit-learn, pandas, matplotlib, seaborn
 - **Tools:** Power BI, Jupyter, Google Colab
