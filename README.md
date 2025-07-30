@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **AlzaraSheikh/AlzaraSheikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hi, I'm Alzara
+
+I'm an Aspiring Data Scientist with a passion for solving real-world problems using data and code.
+
+## 🧠 What I'm Working On
+- Learning more about NLP and data visualization
+
+## 💡 Skills
+- **Languages:** Python, SQL, Java
+- **Libraries:** scikit-learn, pandas, matplotlib, seaborn
+- **Tools:** Power BI, Jupyter, Google Colab
+- **Soft Skills:** Problem-solving, research, communication, anaytical thinking
